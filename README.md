@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cadence 👋
 
-<!--
-**CadenceElaina/cadenceelaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer and former financial professional pursuing a B.S. in Computer Science at UNC Charlotte. I build full-stack web applications with JavaScript, React, Node.js, Express, and MongoDB — and I also work with Java, Spring Boot, and C#.
 
-Here are some ideas to get you started:
+Previously spent 3+ years at Wells Fargo Advisors as an Investment Consultant and Financial Advisor — now channeling that domain expertise into software engineering, especially in fintech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently looking for SWE internship opportunities.**
+
+## Links
+
+- 🌐 [Portfolio](https://cadence-anderson.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cadence-anderson-7a6a6737a/)
+- 📄 [Resume](https://your-portfolio-url.vercel.app/resume.pdf)
+- ✉️ cadence.anderson88@gmail.com
