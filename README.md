@@ -10,5 +10,5 @@ Previously spent 3+ years at Wells Fargo Advisors as an Investment Consultant an
 
 - 🌐 [Portfolio](https://cadence-anderson.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cadence-anderson-7a6a6737a/)
-- 📄 [Resume](https://your-portfolio-url.vercel.app/resume.pdf)
+- 📄 [Resume](https://cadence-anderson.netlify.app/resume.pdf)
 - ✉️ cadence.anderson88@gmail.com
