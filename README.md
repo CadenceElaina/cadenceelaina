@@ -1,8 +1,10 @@
 # Hi, I'm Cadence 👋
 
-Software engineer and former financial professional pursuing a B.S. in Computer Science at UNC Charlotte. I build full-stack web applications with JavaScript, React, Node.js, Express, and MongoDB — and I also work with Java, Spring Boot, and C#.
+Software engineer and former financial professional pursuing a B.S. in Computer Science at UNC Charlotte. I build full-stack web applications with JavaScript, React, Node.js, Express, and MongoDB.
 
-Previously spent 3+ years at Wells Fargo Advisors as an Investment Consultant and Financial Advisor — now channeling that domain expertise into software engineering, especially in fintech.
+Languages: JavaScript (ES6+), Java, Python, SQL
+Frameworks/Libs: Spring Boot, React, Node.js, Express.js, Jest
+Databases/Tools: MongoDB, PostgreSQL, Git, GitHub, Postman, Linux/Unix, REST APIs, VSCode, Copilot, Claude
 
 **Currently looking for SWE internship opportunities.**
 
@@ -10,5 +12,5 @@ Previously spent 3+ years at Wells Fargo Advisors as an Investment Consultant an
 
 - 🌐 [Portfolio](https://cadence-anderson.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cadence-anderson-7a6a6737a/)
-- 📄 [Resume](https://cadence-anderson.netlify.app/resume.pdf)
+- 📄 [Resume](https://cadence-anderson.netlify.app/swe-resume.pdf)
 - ✉️ cadence.anderson88@gmail.com
