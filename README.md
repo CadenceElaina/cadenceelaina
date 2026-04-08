@@ -12,5 +12,5 @@ Software engineer and former financial professional pursuing a B.S. in Computer 
 
 - 🌐 [Portfolio](https://cadence-anderson.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/cadence-anderson-7a6a6737a/)
-- 📄 [Resume](https://cadence-anderson.netlify.app/swe-resume.pdf)
+- 📄 [Resume](https://cadence-anderson.netlify.app/swe_resume.pdf)
 - ✉️ cadence.anderson88@gmail.com
